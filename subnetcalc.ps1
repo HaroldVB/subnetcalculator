@@ -200,7 +200,6 @@ else {
             Write-Host "Subnet: /24" -ForegroundColor Green
             Write-Host $str -ForegroundColor Green
             Write-Host "Subnet mask: 255.255.255.0" -ForegroundColor Green
-            Write-Host "Dit zal niet meer in jouw IP plan passen!" -ForegroundColor Red
         }
         else {
             Write-Host "Dat is geen klasse C adres" -ForegroundColor Red
