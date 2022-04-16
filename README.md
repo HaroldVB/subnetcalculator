@@ -1,4 +1,4 @@
 # subnetcalculator
-Studenten kunnen deze subnet rekenmachine gebruiken voor schoolopdrachten.
 
-Ik zou de rekenmachine graag willen verbeteren indien mogelijk, je kan altijd een pull request maken.
+A calculator for subnetting C class IP adresses.
+I know there are a million web-based subnet calculators but this one is in the cool and epic Powershell language!
