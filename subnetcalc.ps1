@@ -22,7 +22,7 @@ $r26 = 31..62
 $r25 = 63..126
 $r24 = 127..255
 
-# Algemenen informatie
+# Algemene informatie
 Write-Host "---------------------------------------------" -ForegroundColor Red
 Write-Host "Deze informatie heb je nodig:" -ForegroundColor Red
 
